@@ -2,7 +2,9 @@
 
 原文链接：https://mp.weixin.qq.com/s/nU1uEjsLA115oRdgObHgaA
 
-# 实现步骤：命令行下，按顺序执行：
+# 实现步骤：命令行下，按顺序执行：(本文作者使用Anaconda prompt)
+0. `cd <你的项目文件夹路径>`
+
 1. `conda create -n mcp python=3.10`
 
 2. `conda activate mcp`
