@@ -1,5 +1,9 @@
 # Original Code of “一个人工智能本科生”微信公众号文章：如何用Python本地实现一个最简单的图像分析系统？(LLM+OCR)
 
+<img align="center" src="https://img.shields.io/github/forks/Frosty-Jackal/MCPDemo.svg?style=social&label=Fork&maxAge=2592000" />
+<img align="center" src="https://img.shields.io/github/stars/Frosty-Jackal/MCPDemo.svg?style=social&label=Star&maxAge=2592000" />
+
+
 原文链接：https://mp.weixin.qq.com/s/nU1uEjsLA115oRdgObHgaA
 
 # 实现步骤：命令行下，按顺序执行：(本文作者使用Anaconda prompt)
